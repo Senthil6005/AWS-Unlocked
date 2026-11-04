@@ -10,9 +10,6 @@
  
 <img width="1120" height="768" alt="aws-architecture-flow" src="https://github.com/user-attachments/assets/b62d15f6-604d-403b-910a-f06641e8ebbb" />
 
-<img width="1400" height="960" alt="aws-architecture" src="https://github.com/user-attachments/assets/df56e0df-7349-4be6-bc22-80ff4dc06763" />
-
-
 | Component | Role in this lab |
 |-----------|------------------|
 | **SQS** | Sub_1 – stores alerts for the **L1 support team** / internal chat app until they are read |
