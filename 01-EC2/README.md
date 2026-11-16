@@ -42,4 +42,5 @@ ssh -i mykey.pem ec2-user@<public-ip>
 
 ## 📝 Practice
 - Launch a Linux EC2, install nginx using User Data, open port 80 in the SG and access it from a browser.
-- ⚠️ Delete or stop resources after the lab to avoid charges.
+- ⚠️ Delete or stop resources after the lab to avoid charges.<img width="1404" height="741" alt="image" src="https://github.com/user-attachments/assets/a7e1b311-3983-4a34-bcdb-b5e7961052b9" />
+
